@@ -15,6 +15,7 @@ public class Main extends JFrame {
     private JTable materiasTable;
     private DefaultTableModel tableModel;
 
+    // Detalles de conexion a Clever Cloud
     private final String url = "jdbc:postgresql://bvaybuhhac35nixbooh2-postgresql.services.clever-cloud.com:50013/bvaybuhhac35nixbooh2";
     private final String user = "u7qloxalfzchqq1ti1lv"; 
     private final String password = "mDk6jP1d4wU4SZP0T2AJUCYOG1QYJz";
